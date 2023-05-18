@@ -1,0 +1,47 @@
+.megha h1{
+    text-align: center;
+    color: rgb(59, 19, 205);
+    font-size: 300%;
+}
+.mj{
+    font-size: 30px;
+    margin-left: 10%;
+    box-shadow: 0 0 20px;
+color: blue;
+}
+.megha{
+   margin-left: 10%;
+    box-sizing: border-box;
+  width: 80%;
+  border-radius: 10px;
+  justify-content: center;
+  align-items: baseline;
+  padding: 1em;
+  margin-bottom: 2em;
+  background-color: rgb(255, 255, 255);
+border: 2px black;
+box-shadow: 0 0 60px black;
+}
+form{
+    margin-left: 20%;
+    font-size: 200%;
+    color: blue;
+   
+}
+input{
+    box-shadow: 0 0 30px black;
+    margin-left: 10px;
+    font-size: 90%;
+    color: blue;
+    border: none;
+}
+ label{
+    margin: auto;
+}
+label,input{
+    margin-bottom: 40px;
+}
+alert{
+    background-color: black;
+    color: aliceblue;
+}
